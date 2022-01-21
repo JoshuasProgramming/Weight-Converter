@@ -1,0 +1,78 @@
+body{
+    background: rgb(242, 255, 213);
+}
+
+.container{
+    width:575px;
+    height:400px;
+    background: snow;
+    border-radius:25px;
+    box-shadow: 1px 1px 11px black;
+    margin:125px 385px
+}
+
+.select-options{
+    width:560px;
+    height:30px;
+    font-size:15px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Tahoma, sans-serif;
+    outline: none;
+    border-radius: 10px;
+    margin:0px 10px;
+}
+
+.input{
+    width:550px;
+    outline:none;
+    border:none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    margin:10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-family:Tahoma, sans-serif;
+}
+
+.container1{
+    width:550px;
+    height: 80px;
+    background: cornflowerblue;
+    margin:0px 10px;
+    border-radius:12px;
+    font-size:30px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Tahoma, sans-serif;
+}
+
+.container2{
+    width:550px;
+    height: 80px;
+    background: rgb(237, 100, 100);
+    margin:10px 10px;
+    border-radius:12px;
+    font-size:30px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Tahoma, sans-serif;
+}
+
+.container3{
+    width:550px;
+    height: 80px;
+    background: rgb(216, 100, 237);
+    margin:10px 10px;
+    border-radius:12px;
+    font-size:30px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Tahoma, sans-serif;
+}
+

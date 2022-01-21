@@ -70,11 +70,11 @@ function OuncesToOthers(){
 
     //conversation (Ounces to Grams)
     let ouncesToGrams = (ounces * 28.3495);
-    container2.innerText = "Pounds: "+ ouncesToGrams.toFixed(4);
+    container2.innerText = "grams: "+ ouncesToGrams.toFixed(4);
 
     //conversation (Ounces to Pounds)
     let ouncesToPounds = (ounces * 0.0625);
-    container3.innerText = "Ounces: "+ ouncesToPounds.toFixed(4);
+    container3.innerText = "pounds: "+ ouncesToPounds.toFixed(4);
 }
 
 function KiloToOthers(){
